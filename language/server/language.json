@@ -1,0 +1,22 @@
+{
+    "Chinese": {
+        "welcome": "加入本战局，在本战局游玩请遵守规则，祝你玩得开心，use command /language English Change to english",
+        "rules": "规则：请不要发广告，这将会自动踢出",
+        "teleport": {
+            "sent_succeed": "传送请求已发送，正在等待接受",
+            "request": "%s 申请传送到你身边",
+            "accept_error": "没有人对您发出传送请求"
+        },
+        "change_language": "语言更换为：%s"
+    },
+    "English": {
+        "welcome": "Join the game,please follow the rules when playing in this game,glhf,使用/language Chinese切换中文",
+        "rules": "Rules: Please do not send ads, this will be kicked out automatically",
+        "teleport": {
+            "sent_succeed": "A teleport request has been sent and is waiting to be accepted",
+            "request": "%s requests to be teleported to your side",
+            "accept_error": "No one has made a teleport request to you"
+        },
+        "change_language": "Language change to: %s"
+    }
+}
